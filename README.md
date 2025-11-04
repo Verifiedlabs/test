@@ -1,2 +1,1 @@
-# test
-Repo untuk farming GitHub badges (automated)
+test2
